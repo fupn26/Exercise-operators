@@ -14,7 +14,7 @@ cout<<"n == "<<n
 <<"\nsquare root of n == "<<sqrt(n)
 <<'\n';
 }
-# Exercise operators with floating-point values
+# Exercise operators with integers
 #include "std_lib_facilities.h"
 int main()
 {
